@@ -1,4 +1,4 @@
 # Leetcode Solutions
 
-`Leetcode Sync 🔐  | Problem Solving | Java | C++ | JavaScript | Python`
+`Leetcode Sync 🔐  | Java | C++ | JavaScript | Python`
 
